@@ -1,5 +1,5 @@
-<h1>Customer Segmentation Analysis</h1><br>
-<h2></h2>Project Overview</h2><br>
+<h1>Customer Segmentation Analysis</h1>
+<h2>Project Overview</h2><br>
 This project focuses on customer segmentation using clustering techniques. By analyzing spending behaviors and demographic data, we identify different customer groups to help businesses understand their target audience.<br>
 
 <h3>Business Questions Answered</h3><br>
