@@ -3,6 +3,7 @@
 This project focuses on customer segmentation using clustering techniques. By analyzing spending behaviors and demographic data, we identify different customer groups to help businesses understand their target audience.<br>
 
 <h3>Business Questions Answered</h3><br>
+
 1)Who are the high-spending customers?<br>
 Customers aged 20-40 have the highest spending scores, indicating a preference for luxury or premium products.<br>
 
@@ -26,5 +27,6 @@ Customers with low annual income and low spending scores contribute the least to
 Python (Pandas, NumPy, Scikit-learn, Matplotlib)<br>
 Jupyter Notebook<br>
 Machine Learning (Clustering)<br>
-<h3>Results & Insights</h3><br>
+
+<h2>Results & Insights</h2><br>
 The clustering results provide actionable insights for businesses to optimize customer engagement, pricing, and marketing strategies.<br>
